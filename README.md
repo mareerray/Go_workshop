@@ -1,2 +1,2 @@
 # Go workshop
-Learning by doing exercises
+Learning Go by doing exercises
